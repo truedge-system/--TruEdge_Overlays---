@@ -21,3 +21,4 @@ Upper overlays and HUD modules for branded signal display, theme logic, and cock
 
 ## 📝 License
 MIT — remix, reuse, and build your legacy.
+🔗 [Back to TruEdge™ Launchpad Index](https://github.com/TruEdge-systems/TruEdge_Launchpad/blob/main/README.md)
